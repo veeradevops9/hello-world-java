@@ -41,11 +41,5 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("Hello, World");
     System.out.println("Hello, World");
-  
-    System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Hello, gocorona");
-    System.out.println("Hello, W");
-  System.out.println("Hello, World");
   }
 }
